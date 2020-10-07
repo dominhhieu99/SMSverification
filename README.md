@@ -166,3 +166,6 @@ It is totally free to use. :)
 ## Credits
 [Google's official doc](https://developers.google.com/identity/sms-retriever/overview) ,
 [Chintan Desai's (Repo/Kotlin)](https://github.com/chintandesai49/SMSRetrieverAPIDemo)
+
+## Credits
+[The Origin of WaveTechStudio](https://github.com/WaveTechStudio/SMSRetrieverAPIMaster)
